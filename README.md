@@ -21,18 +21,39 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="wanessakcm" />
-</p>
 
-<h2 align="center">Vamos Conectar?</h2>
+<!--<h2 align="center">Estatísticas de Desenvolvimento</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wanessa-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/wanessakcm">
+    <img src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Estatísticas de Desenvolvimento" />
+  </a>
+</p>
+<h2 align="center">Estatísticas de Desenvolvimento 🚀</h2>
+<p align="center">
+  <a href="https://github.com/wanessakcm">
+    <img src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="Estatísticas de Desenvolvimento" />
+  </a>
+</p>-->
+<h2 align="center">Estatísticas de Desenvolvimento 📊</h2>
+<p align="center">
+  <a href="https://github.com/wanessakcm">
+    <img src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&title_color=58A6FF&text_color=58A6FF&icon_color=FFD700&bg_color=0,22272E,5807CC&hide_border=true" alt="Estatísticas de Desenvolvimento" />
   </a>
 </p>
 
 
+
+
+<h2 align="center">Vamos Conectar?</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wanessa-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>
+</p>
+
+
+<p align="center">🖱️ Networking é a chave! Se conecte comigo! ☝️</p>
 <p align="center">Estou bem animada para explorar oportunidades e contribuir para projetos. 🚀</p>
+
 
 
