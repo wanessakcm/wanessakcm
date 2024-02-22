@@ -1,6 +1,7 @@
-<h1 align="center">Olá, Mundo! Sou Wanessa Melo 👋</h1>
+<h2 align="center">Olá, Mundo! Sou Wanessa Melo 👋</h2>
 
-<p align="center">💻 Sou uma entusiasta da tecnologia.☀️ Pernambucana e atualmente construindo meu caminho em São Paulo.</p>
+<p align="center">💻 Sou uma entusiasta da tecnologia, inovação e ciência.</p>
+<p align="center">☀️ Pernambucana e atualmente construindo meu caminho em São Paulo.</p>
 
 <h2 align="center">Sobre Mim</h2>
 <p align="center">Desenvolvedora Java Full Stack Jr. com foco em desenvolvimento WEB. Cursando graduação em Ciência de Dados para expandir meu horizonte tecnológico.</p>
