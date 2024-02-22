@@ -36,11 +36,14 @@
   </a>
 </p>-->
 <h2 align="center">Estatísticas de Desenvolvimento 📊</h2>
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/wanessakcm">
-    <img src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&title_color=58A6FF&text_color=58A6FF&icon_color=FFD700&bg_color=0,22272E,5807CC&hide_border=true" alt="wanessakcm" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessakcm&show_icons=true&locale=en&title_color=58A6FF&text_color=58A6FF&icon_color=FFD700&bg_color=0,22272E,5807CC&hide_border=true" alt="wanessakcm" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessakcm&layout=compact&langs_count=7&title_color=58A6FF&text_color=58A6FF&icon_color=FFD700&bg_color=0,22272E,5807CC&hide_border=true" alt="Linguagens mais Utilizadas" />
+    
   </a>
-</p>
+</div>
 
 <h2 align="center">Vamos Conectar?</h2>
 <p align="center">
