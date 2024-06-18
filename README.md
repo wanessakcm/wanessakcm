@@ -54,7 +54,7 @@
 
 
 <p align="center">🖱️ Networking é a chave! Se conecte comigo! ☝️</p>
-<p align="center">Estou bem animada para explorar oportunidades e contribuir para projetos. 🚀</p>
+
 
 
 
